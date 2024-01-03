@@ -22,3 +22,23 @@ Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
 | 19 - 22 | Forberedelse til skriftlig eksamen | Skriftlig eksamen 31. mai  |
 | 23 - 24 | Forberedelse til muntlig eksamen   | Muntlig eksamen uke 24     |
 | 25      | Avlutningsuke                      | Geoguessrmesterskap        |
+
+## Emner
+
+- Samfunn og systemer
+  - etiske dilemma og konsekvenser av bruk av IT
+  - standarer for lagring, utveksling og sikring av data
+  - brukervennlighet i informasjonssystemer
+- Problemløsning
+  - metoder, teknikker og verktøy
+  - alternative løsninger
+  - objektorienterte programmer med klasser, arv og objekter
+- Modellering og representasjon
+  - objektorienterte modeller som beskriver programstruktur
+  - representasjon av programflyt med kontrollstrukturer
+  - brukervennlighet i programmer
+- Implementering
+  - løsnigner med programmering
+  - gjenbrukbar kode
+  - innhente, analysere og presentere data
+  - vern mot kjøretidsfeil og logiske feil i programmer
