@@ -6,7 +6,7 @@ Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
 
 | Tirsdag | Torsdag | Beksrivelse                                   |
 | ------- | ------- | --------------------------------------------- |
-| 6. feb  | 8. feb  | Prøve - Databehandling og algoritmer          |
+| 6. feb  | 1. feb  | Prøve - Databehandling og algoritmer          |
 | 5. apr  | 5. apr  | Mappeinnlevering - Spill og/eller applikasjon |
 | 23. apr | 25. apr | Tentamen                                      |
 | 31. mai | 31. mai | Skriftlig eksamen                             |
