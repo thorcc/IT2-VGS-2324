@@ -16,7 +16,7 @@ Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
 
 | Ukenr   | Emne                               | Kommentar                  |
 | ------- | ---------------------------------- | -------------------------- |
-| 1 - 6   | Databehandling og algoritmer       | Prøve 6. feb / 8. feb      |
+| 1 - 6   | [Databehandling og algoritmer](./databehandling-og-algoritmer/)       | Prøve 6. feb / 8. feb      |
 | 7 - 14  | Prosjektarbeid                     | Mappeinnlevering 5. apr    |
 | 15 - 18 | Større oppgaver og tentamen        | Tentamen 23. apr / 25. apr |
 | 19 - 22 | Forberedelse til skriftlig eksamen | Skriftlig eksamen 31. mai  |
