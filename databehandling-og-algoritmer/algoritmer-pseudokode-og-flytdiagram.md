@@ -78,9 +78,10 @@ Følgende nøkkelord benyttes for å representere logiske operatorer i pseudokod
 
 ## Flytdiagram
 
-- viser en visuell representasjon av en algoritme
+- viser en visuell representasjon av en algoritme eller et program
 - viser *flyten* i en algoritme eller et program
-- vi følger [ISO-standarden 5807](https://cdn.standards.iteh.ai/samples/11955/1b7dd254a2a54fd7a89d616dc0570e18/ISO-5807-1985.pdf) fra 1985, se symboler under:
+
+### Symboler
 
 | Symbol                                 | Navn                 | Beskrivelse                                                                                                                                                             |
 | -------------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -88,10 +89,13 @@ Følgende nøkkelord benyttes for å representere logiske operatorer i pseudokod
 | ![](./bilder/Flowchart_Terminal.svg)   | Terminal             | Start eller slutte på algoritme eller program. Inneholder vanligvis ordet "Start" eller "Slutt".                                                                        |
 | ![](./bilder/Flowchart_Process.svg)    | Process              | En eller flere operasjoner, som endrer verdi, form eller plassering av data. For eksempel: `gjør alle bokstaver små`                                                    |
 | ![](./bilder/Flowchart_IO.svg)         | Input/Output         | Hent inn (input) eller vis (print) data.                                                                                                                                |
-| ![](./bilder/Flowchart_Annotation.svg) | Annotation (comment) | Viser ekstra informasjon om et steg i programmet. Tekst skrives inne i den åpne boksen og pilen peker på et annet symbol i diagrammet.                                  |
 
 > [Draw.io](https://www.drawio.com/) kan brukes for å tegne flytdiagrammer.
 > Du finner symbolene for flytdiagram under `flowchart` i menyen til venstre.
+
+### Eksempel
+
+![](./bilder/flytdiagram.png)
 
 ## Oppgaver
 
