@@ -11,8 +11,13 @@
 | 19     | 30. jan | 25. jan | Flask og etiske dilemma                                                                                  |
 | 20     | 6. feb  | 1. feb  | Prøve                                                                                                    |
 
+## Oppgaver
+
+- [./oppgaver.md](./oppgaver.md)
+
 ## Ressurser
 
+- [Algoritmer, pseudokode og flytdiagram](./algoritmer-pseudokode-og-flytdiagram.md)
 - [Aunivers: 3A Tegning av grafer](https://innhold.aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/3a-tegning-av-grafer?nof=1)
 - [Aunivers: 3B Reelle datasett](https://innhold.aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/3b-reelle-datasett)
 
