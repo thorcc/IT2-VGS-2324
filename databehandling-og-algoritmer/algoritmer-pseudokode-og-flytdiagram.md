@@ -4,7 +4,7 @@
 
 - Hvis du gir en *presis* beskrivelse for hvordan man skal løse et *problem*, så har du
 beskrevet det vi kaller en algoritme 
-- Algoritmer er en serie med små og entydige steg
+- En algoritme består av en serie med små og entydige steg
 - En algoritme må
   - stoppe etter et endelig antall steg
   - hvert steg må være helt presist definert
