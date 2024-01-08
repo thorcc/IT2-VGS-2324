@@ -1,5 +1,10 @@
 # Algoritmer og pseudokode
 
+- [Algoritmer](#algoritmer)
+- [Pseudokode](#pseudokode)
+- [Flytdiagram](#flytdiagram)
+- [Oppgaver](#oppgaver)
+
 ## Algoritmer
 
 - Hvis du gir en *presis* beskrivelse for hvordan man skal løse et *problem*, så har du
