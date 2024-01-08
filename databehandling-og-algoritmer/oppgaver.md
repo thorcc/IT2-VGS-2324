@@ -1,7 +1,7 @@
 # Oppgaver - Databehandling og algoritmer
 
 - [1 - 12: Algoritmer, pseudokode og flytdiagram](#algoritmer-pseudokode-og-flytdiagram)
-- [13: Databehandling](#databehandling)
+- [13 - 14: Databehandling](#databehandling)
 
 ## Algoritmer, pseudokode og flytdiagram
 
