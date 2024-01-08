@@ -7,9 +7,9 @@ beskrevet det vi kaller en algoritme
 - En algoritme består av en serie med små og entydige steg
 - En algoritme må
   - stoppe etter et endelig antall steg
-  - hvert steg må være helt presist definert
   - ta null eller flere input
   - produsere et output som står i forhold til input
+  - være helt presist definert for hvert enkelt steg
 - En algoritme *bør* være effektiv
 
 ## Eksempel: En algoritme som finner høyeste tallet i en liste
