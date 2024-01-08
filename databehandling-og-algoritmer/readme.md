@@ -1,6 +1,9 @@
 # Databehandling og algoritmer
 
 - [Algoritmer, pseudokode og flytdiagram](./algoritmer-pseudokode-og-flytdiagram.md)
+- Sorteringsalgoritmer og CSV-filer (kommer neste uke)
+- API-er og plotting (kommer om to uker)
+- Flask og etiske dilemma (kommer om tre uker)
 
 ## Plan
 
