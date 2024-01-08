@@ -1,5 +1,6 @@
 # Databehandling og algoritmer
 
+- [Algoritmer, pseudokode og flytdiagram](./algoritmer-pseudokode-og-flytdiagram.md)
 
 ## Plan
 
@@ -15,9 +16,8 @@
 
 - [./oppgaver.md](./oppgaver.md)
 
-## Ressurser
+## Ekstra ressurser
 
-- [Algoritmer, pseudokode og flytdiagram](./algoritmer-pseudokode-og-flytdiagram.md)
 - [Aunivers: 3A Tegning av grafer](https://innhold.aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/3a-tegning-av-grafer?nof=1)
 - [Aunivers: 3B Reelle datasett](https://innhold.aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/3b-reelle-datasett)
 
