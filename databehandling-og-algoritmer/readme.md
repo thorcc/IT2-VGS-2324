@@ -1,5 +1,6 @@
 # Databehandling og algoritmer
 
+
 ## Plan
 
 | IT-Uke | Tirsdag | Torsdag | Emne                                                                                                     |
@@ -9,6 +10,12 @@
 | 18     | 23. jan | 18. jan | API-er og plotting                                                                                       |
 | 19     | 30. jan | 25. jan | Flask og etiske dilemma                                                                                  |
 | 20     | 6. feb  | 1. feb  | Prøve                                                                                                    |
+
+## Ressurser
+
+- [Aunivers: 3A Tegning av grafer](https://innhold.aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/3a-tegning-av-grafer?nof=1)
+- [Aunivers: 3B Reelle datasett](https://innhold.aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/3b-reelle-datasett)
+
 
 ## Vurderingskriterier
 
