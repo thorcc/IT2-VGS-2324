@@ -1,5 +1,6 @@
 # Algoritmer
 
+- [Hva er en algoritme?](#hva-er-en-algoritme)
 - [Sorteringsalgoritmer](#sorteringsalgoritmer)
 - [Effektivitet (Stor-O)](#effektivitet)
 
