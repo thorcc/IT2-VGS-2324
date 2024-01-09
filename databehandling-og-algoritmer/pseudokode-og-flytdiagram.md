@@ -1,4 +1,4 @@
-# Algoritmer og pseudokode
+# Pseudokode og flytdiagram
 
 - [Pseudokode](#pseudokode)
 - [Flytdiagram](#flytdiagram)
