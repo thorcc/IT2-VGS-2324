@@ -3,6 +3,8 @@
 - [Sorteringsalgoritmer](#sorteringsalgoritmer)
 - [Effektivitet (Stor-O)](#effektivitet)
 
+## Hva er en algoritme?
+
 - Hvis du gir en *presis* beskrivelse for hvordan man skal løse et *problem*, så har du
 beskrevet det vi kaller en algoritme
 - En algoritme består av en serie med små og entydige steg
