@@ -1,19 +1,20 @@
 # Databehandling og algoritmer
 
-- [Algoritmer, pseudokode og flytdiagram](./algoritmer-pseudokode-og-flytdiagram.md)
-- Sorteringsalgoritmer og CSV-filer (kommer neste uke)
+- [Pseudokode og flytdiagram](./pseudokode-og-flytdiagram.md)
+- [Algoritmer](./algoritmer.md)
+- Lese fra fil (kommer neste uke)
 - API-er og plotting (kommer om to uker)
 - Flask og etiske dilemma (kommer om tre uker)
 
 ## Plan
 
-| IT-Uke | Tirsdag | Torsdag | Emne                                                                                                     |
-| ------ | ------- | ------- | -------------------------------------------------------------------------------------------------------- |
-| 16     | 9. jan  | 4. jan  | [Algoritmer, pseudokode, flytdiagram og kanskje litt JSON](./algoritmer-pseudokode-og-flytdiagram.md) |
-| 17     | 16. jan | 11. jan | Sorteringsalgoritmer og CSV-filer                                                                        |
-| 18     | 23. jan | 18. jan | API-er og plotting                                                                                       |
-| 19     | 30. jan | 25. jan | Flask og etiske dilemma                                                                                  |
-| 20     | 6. feb  | 1. feb  | Prøve                                                                                                    |
+| IT-Uke | Tirsdag | Torsdag | Emne                                                                           |
+| ------ | ------- | ------- | ------------------------------------------------------------------------------ |
+| 16     | 9. jan  | 4. jan  | [Pseudokode, flytdiagram og kanskje litt JSON](./pseudokode-og-flytdiagram.md) |
+| 17     | 16. jan | 11. jan | [Algoritmer](./algoritmer.md) og CSV-filer                                     |
+| 18     | 23. jan | 18. jan | API-er og plotting                                                             |
+| 19     | 30. jan | 25. jan | Flask og etiske dilemma                                                        |
+| 20     | 6. feb  | 1. feb  | Prøve                                                                          |
 
 ## Oppgaver
 
@@ -24,9 +25,7 @@
 - [Aunivers: 3A Tegning av grafer](https://innhold.aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/3a-tegning-av-grafer?nof=1)
 - [Aunivers: 3B Reelle datasett](https://innhold.aunivers.no/fagpakker/realfag/informasjonsteknologi-1-2/it-2/3-databehandling/3b-reelle-datasett)
 
-
 ## Vurderingskriterier
-
 
 | Kategori                          | Lav kompetanse (2)                                                                                        | God kompetanse (4)                                                                         | Utmerket kompetanse (6)                                                                                      |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
