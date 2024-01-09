@@ -32,7 +32,6 @@ Følgende nøkkelord benyttes for å representere struktur (flytkontroll) i pseu
 | CASE-OF-OTHERS-ENDCASE      | er en flerveis forgrening av flyten basert på verdien av et uttrykk.                                |
 | BEGIN-EXCEPTION-WHEN-END    | er håndtering av unntak i kjøretid.                                                                 |
 
- 
 Følgende nøkkelord benyttes for å representere operasjoner i pseudokode på eksamen
 
 | nøkkelord      | beskrivelse                                                                                                                   |

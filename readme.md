@@ -11,7 +11,6 @@ Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
 | 23. apr | 25. apr | Tentamen                                                                |
 | 31. mai | 31. mai | Skriftlig eksamen                                                       |
 
-
 ## Plan
 
 | Ukenr   | Emne                                                            | Kommentar                  |
@@ -43,7 +42,6 @@ Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
   - innhente, analysere og presentere data
   - vern mot kjøretidsfeil og logiske feil i programmer
 
-
 ## Vurderingskriterier
 
 | Kategori                          | Lav kompetanse (2)                                                                                                                   | God kompetanse (4)                                                                                                                 | Utmerket kompetanse (6)                                                                                                   |
@@ -62,5 +60,3 @@ Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
 |                                   | bruker hensiktsmessig gjenbrukbar kode                                                                                               | bruker og tilpasser hensiktsmessig gjenbrukbar kode                                                                                | bruker, tilpasser og utvikler hensiktsmessig gjenbrukbar kode                                                             |
 |                                   | innhenter datasett og presenterer enkle data fra disse med programmering                                                             | bearbeider datasett, gjør enkle analyser av dataene og presenterer disse med programmering                                         | gjør sammensatte analyser av datasett og presenterer disse med programmering                                              |
 |                                   | implementerer kode uten syntaksfeil                                                                                                  | ivaretar vern mot kjøretidsfeil og logiske feil i enkle og sammensatte programmer                                                  | ivaretar vern mot kjøretidsfeil og logiske feil i avanserte programmer                                                    |
-
-
