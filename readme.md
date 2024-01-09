@@ -2,16 +2,25 @@
 
 Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
 
+## Denne uken
+
+- IT-uke: 16
+- Tema: [Pseudokode og flytdiagram](./databehandling-og-algoritmer/pseudokode-og-flytdiagram.md)
+- Oppgaver: [./databehandling-og-algoritmer/oppgaver.md](./databehandling-og-algoritmer/oppgaver.md)
+- Gjøremål:
+  - Lag Github-repository for IT2-2324
+  - Gjør [oppgave 1 til 8](./databehandling-og-algoritmer/oppgaver.md)
+
 ## Viktige datoer
 
-| Tirsdag | Torsdag | Beksrivelse                                                             |
-| ------- | ------- | ----------------------------------------------------------------------- |
-| 6. feb  | 1. feb  | Prøve - [Databehandling og algoritmer](./databehandling-og-algoritmer/) |
-| 5. apr  | 5. apr  | Mappeinnlevering - Spill og/eller applikasjon                           |
-| 23. apr | 25. apr | Tentamen                                                                |
-| 31. mai | 31. mai | Skriftlig eksamen                                                       |
+| Tirsdag | Torsdag           | Beksrivelse                                                             |
+| ------- | ----------------- | ----------------------------------------------------------------------- |
+| 6. feb  | 8. feb (ny dato!) | Prøve - [Databehandling og algoritmer](./databehandling-og-algoritmer/) |
+| 5. apr  | 5. apr            | Mappeinnlevering - Spill og/eller applikasjon                           |
+| 23. apr | 25. apr           | Tentamen                                                                |
+| 31. mai | 31. mai           | Skriftlig eksamen                                                       |
 
-## Plan
+## Årsplan
 
 | Ukenr   | Emne                                                            | Kommentar                  |
 | ------- | --------------------------------------------------------------- | -------------------------- |
