@@ -111,7 +111,7 @@ Lag flytdiagrammet i et egnet program, og lagre det i et allment lesbart format 
 
 ## Oppgave 8: V23-3
 
-Tallene 1, 3, 6, 10, 15, 21 og så videre kalles for trekanttall. De tilsvarer antallet prikker som vil vises i en likesidet trekant når man bruker et grunnleggende trekantmønster for å bygge trekanten. Se illustrasjonen nedenfor: 
+Tallene 1, 3, 6, 10, 15, 21 og så videre kalles for trekanttall. De tilsvarer antallet prikker som vil vises i en likesidet trekant når man bruker et grunnleggende trekantmønster for å bygge trekanten. Se illustrasjonen nedenfor:
 
 ![v23-3](./bilder/v23-3.png)
 
