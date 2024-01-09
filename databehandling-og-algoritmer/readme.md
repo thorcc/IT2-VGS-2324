@@ -11,7 +11,7 @@
 | IT-Uke | Tirsdag | Torsdag | Emne                                                                           |
 | ------ | ------- | ------- | ------------------------------------------------------------------------------ |
 | 16     | 9. jan  | 4. jan  | [Pseudokode, flytdiagram og kanskje litt JSON](./pseudokode-og-flytdiagram.md) |
-| 17     | 16. jan | 11. jan | [Algoritmer](./algoritmer.md) og CSV-filer                                     |
+| 17     | 16. jan | 11. jan | [Algoritmer](./algoritmer.md) og lese fra fra filer                            |
 | 18     | 23. jan | 18. jan | API-er og plotting                                                             |
 | 19     | 30. jan | 25. jan | Flask og etiske dilemma                                                        |
 | 20     | 6. feb  | 1. feb  | Prøve                                                                          |
