@@ -77,4 +77,4 @@ Følgende nøkkelord benyttes for å representere logiske operatorer i pseudokod
 
 ## Oppgaver
 
-- [./oppgaver.md](./oppgaver.md)
+- [./oppgaver/pseudokode-og-flytdiagram.md](./oppgaver/pseudokode-og-flytdiagram.md)

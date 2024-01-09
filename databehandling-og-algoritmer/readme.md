@@ -18,7 +18,7 @@
 
 ## Oppgaver
 
-- [./oppgaver.md](./oppgaver.md)
+- [Pseudokode og flytdiagram](./oppgaver/pseudokode-og-flytdiagram.md)
 
 ## Ekstra ressurser
 
