@@ -5,8 +5,9 @@ Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
 ## Denne uken
 
 - IT-uke: 16
-- Tema: [Pseudokode og flytdiagram](./databehandling-og-algoritmer/pseudokode-og-flytdiagram.md)
-- Oppgaver: [./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md](./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md)
+- Ukens fagstoff: [Pseudokode og flytdiagram](./databehandling-og-algoritmer/pseudokode-og-flytdiagram.md)
+- Ukens oppgaver: [./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md](./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md)
+- Tema: [Databehandling og algoritmer](./databehandling-og-algoritmer/readme.md)
 - Gjøremål:
   - Lag Github-repository for IT2-2324
   - Gjør [oppgave 1 til 8](./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md)
