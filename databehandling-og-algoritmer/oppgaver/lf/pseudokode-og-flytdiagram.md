@@ -1,4 +1,4 @@
-# Oppgaver - Algoritmer, pseudokode og flytdiagram
+# Løsningsforslag - Algoritmer, pseudokode og flytdiagram
 
 > Oppgavene skal besvares i en fil med navn `oppgaver-algoritmer-pseudo-flyt.md`
 
