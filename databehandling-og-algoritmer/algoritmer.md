@@ -45,7 +45,14 @@ def høyeste(liste: list[int]):
 print(høyeste([2, -4, 5, 1])) # -> 5
 ```
 
-> I python gjør den innebygde funksjonen `max([2, -4, 5, 1])` det samme som `høyeste`
+### Innebygde funksjoner i Python
+
+Python har en del innebygde funksjoner som løser en *vanlige* programmeringsproblemer.
+For eksempel er det å finne det høyeste tallet i en liste med tall et ganske vanlig problem, og i Python kan vi ganske enkelt bruke den innebygde funksjonen `max` for å finne det høyeste tallet i en liste.
+
+```python
+print(max([2, -4, 5, 1])) # -> 5
+```
 
 ### Algoritmen i bruk
 
