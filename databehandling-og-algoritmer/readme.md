@@ -1,5 +1,13 @@
 # Databehandling og algoritmer
 
+- [Fagstoff](#fagstoff)
+- [Ukeplan](#ukeplan)
+- [Oppgaver](#oppgaver)
+- [Ekstra ressurser](#ekstra-ressurser)
+- [Vurderingskriterier](#vurderingskriterier)
+
+## Fagstoff
+
 - [Pseudokode og flytdiagram](./pseudokode-og-flytdiagram.md)
 - [Algoritmer](./algoritmer.md)
 - [Lese fra fil](./lese-fra-fil.md)
@@ -8,13 +16,13 @@
 
 ## Ukeplan
 
-| IT-Uke | Tirsdag | Torsdag | Emne                                                                           |
-| ------ | ------- | ------- | ------------------------------------------------------------------------------ |
-| 16     | 9. jan  | 11. jan | [Pseudokode, flytdiagram og kanskje litt JSON](./pseudokode-og-flytdiagram.md) |
-| 17     | 16. jan | 18. jan | [Algoritmer](./algoritmer.md) og [lese fra fra fil](./lese-fra-fil.md)         |
-| 18     | 23. jan | 25. jan | API-er og plotting                                                             |
-| 19     | 30. jan | 1. jan  | Flask og etiske dilemma                                                        |
-| 20     | 6. feb  | 8. feb  | Prøve                                                                          |
+| IT-Uke | Tirsdag | Torsdag | Emne                                                                   |
+| ------ | ------- | ------- | ---------------------------------------------------------------------- |
+| 16     | 9. jan  | 11. jan | [Pseudokode og flytdiagram](./pseudokode-og-flytdiagram.md)            |
+| 17     | 16. jan | 18. jan | [Algoritmer](./algoritmer.md) og [lese fra fra fil](./lese-fra-fil.md) |
+| 18     | 23. jan | 25. jan | API-er og plotting                                                     |
+| 19     | 30. jan | 1. jan  | Flask og etiske dilemma                                                |
+| 20     | 6. feb  | 8. feb  | Prøve                                                                  |
 
 ## Oppgaver
 

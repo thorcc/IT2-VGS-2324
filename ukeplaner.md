@@ -1,5 +1,8 @@
 # Ukeplaner
 
+- [Uke 17 - Algoritmer](#uke-17---algoritmer)
+- [Uke 16 - Pseudokode og Flytdiagram](#uke-16---pseudokode-og-flytdiagram)
+
 ## Uke 17 - Algoritmer
 
 - IT-uke: 17

@@ -2,6 +2,19 @@
 
 > Oppgavene skal besvares i en fil med navn `oppgaver-algoritmer-pseudo-flyt.md`
 
+- [Oppgave 1: V23-1](#oppgave-1-v23-1)
+- [Oppgave 2: H23-2](#oppgave-2-h23-2)
+- [Oppgave 3: H23-3](#oppgave-3-h23-3)
+- [Oppgave 4: H23-1](#oppgave-4-h23-1)
+- [Oppgave 5: V23-2](#oppgave-5-v23-2)
+- [Oppgave 6: H23-4](#oppgave-6-h23-4)
+- [Oppgave 7: H23-5](#oppgave-7-h23-5)
+- [Oppgave 8: V23-3](#oppgave-8-v23-3)
+- [Oppgave 9: V23-4](#oppgave-9-v23-4)
+- [Oppgave 10: V23-5](#oppgave-10-v23-5)
+- [Oppgave 11: H23-6](#oppgave-11-h23-6)
+- [Oppgave 12: H23-7](#oppgave-12-h23-7)
+
 ## Oppgave 1: V23-1
 
 Hva er en while-løkke i programmering? (ett riktig svar)

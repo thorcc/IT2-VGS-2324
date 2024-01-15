@@ -2,6 +2,14 @@
 
 Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
 
+- [Denne uken](#denne-uken)
+- [Forrige uke](#forrige-uke)
+- [Oversikt over ukeplaner](#oversikt-over-ukeplaner)
+- [Viktige datoer](#viktige-datoer)
+- [Årsplan](#årsplan)
+- [Emner](#emner)
+- [Vurderingskriterier](#vurderingskriterier)
+
 ## Denne uken
 
 - IT-uke: 17

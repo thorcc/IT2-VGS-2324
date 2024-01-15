@@ -2,6 +2,11 @@
 
 > Oppgavene besvares i egne filer, én fil per oppgave.
 
+- [Oppgave 1](#oppgave-1)
+- [Oppgave 2](#oppgave-2)
+- [Oppgave 3: H23-11](#oppgave-3-h23-11)
+- [Oppgave 4: V23-9](#oppgave-4-v23-9)
+
 ## Oppgave 1
 
 ### Spotify Weekly Top Songs Global
