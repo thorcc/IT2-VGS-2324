@@ -10,21 +10,21 @@
 
 ## Hva er en algoritme?
 
-- Hvis du gir en *presis* beskrivelse for hvordan man skal løse et *problem*, så har du
-beskrevet det vi kaller en algoritme
+- Hvis du gir en _presis_ beskrivelse for hvordan man skal løse et _problem_, så har du
+  beskrevet det vi kaller en algoritme
 - En algoritme består av en serie med små og entydige steg
 - En algoritme må
   - stoppe etter et endelig antall steg
   - ta null eller flere input
   - produsere et output som står i forhold til input
   - være helt presist definert for hvert enkelt steg
-- En algoritme *bør* være effektiv
+- En algoritme _bør_ være effektiv
 
 ## Algoritme 1: høyeste tallet i en liste
 
 ```pseudo
 FUNCTION høyeste (liste)
-  SET høyest TO første tall i liste 
+  SET høyest TO første tall i liste
   FOR hvert tall i liste
     IF tall GREATER THAN høyest
       SET høyest TO tall
@@ -47,7 +47,7 @@ print(høyeste([2, -4, 5, 1])) # -> 5
 
 ### Innebygde funksjoner i Python
 
-Python har en del innebygde funksjoner som løser en *vanlige* programmeringsproblemer.
+Python har en del innebygde funksjoner som løser en _vanlige_ programmeringsproblemer.
 For eksempel er det å finne det høyeste tallet i en liste med tall et ganske vanlig problem, og i Python kan vi ganske enkelt bruke den innebygde funksjonen `max` for å finne det høyeste tallet i en liste.
 
 ```python
@@ -180,11 +180,11 @@ print(n_høyeste([2, -4, 5, 1, 6], 3))
 ```python
 personer = [
    {
-      "navn": "Thor", 
+      "navn": "Thor",
       "alder": 33
-   }, 
+   },
    {
-      "navn": "Ravi", 
+      "navn": "Ravi",
       "alder": 39
    }
 ]

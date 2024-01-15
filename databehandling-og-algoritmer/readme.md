@@ -2,7 +2,7 @@
 
 - [Pseudokode og flytdiagram](./pseudokode-og-flytdiagram.md)
 - [Algoritmer](./algoritmer.md)
-- Lese fra fil (kommer neste uke)
+- [Lese fra fil](./lese-fra-fil.md)
 - API-er og plotting (kommer om to uker)
 - Flask og etiske dilemma (kommer om tre uker)
 
@@ -10,15 +10,16 @@
 
 | IT-Uke | Tirsdag | Torsdag | Emne                                                                           |
 | ------ | ------- | ------- | ------------------------------------------------------------------------------ |
-| 16     | 9. jan  | 11. jan  | [Pseudokode, flytdiagram og kanskje litt JSON](./pseudokode-og-flytdiagram.md) |
-| 17     | 16. jan | 18. jan | [Algoritmer](./algoritmer.md) og lese fra fra filer                            |
+| 16     | 9. jan  | 11. jan | [Pseudokode, flytdiagram og kanskje litt JSON](./pseudokode-og-flytdiagram.md) |
+| 17     | 16. jan | 18. jan | [Algoritmer](./algoritmer.md) og [lese fra fra fil](./lese-fra-fil.md)         |
 | 18     | 23. jan | 25. jan | API-er og plotting                                                             |
-| 19     | 30. jan | 1. jan | Flask og etiske dilemma                                                        |
+| 19     | 30. jan | 1. jan  | Flask og etiske dilemma                                                        |
 | 20     | 6. feb  | 8. feb  | Prøve                                                                          |
 
 ## Oppgaver
 
 - [Pseudokode og flytdiagram](./oppgaver/pseudokode-og-flytdiagram.md)
+- [Databehandling](./oppgaver/databehandling.md)
 
 ## Ekstra ressurser
 
