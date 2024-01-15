@@ -1,6 +1,6 @@
 # Oppgaver - Algoritmer, pseudokode og flytdiagram
 
-> Oppgavene skal besvares i en fil med navn `oppgaver-algoritmer-pseudo-flyt.md`
+> Oppgavene skal besvares i en fil med navn `oppgaver-pseudokode-flytdiagram.md`
 
 - [Oppgave 1: V23-1](#oppgave-1-v23-1)
 - [Oppgave 2: H23-2](#oppgave-2-h23-2)
@@ -120,7 +120,7 @@ Et system som beregner billettprisen avhengig av kjøperens alder, bruker følge
 
 Lag et flytdiagram for et program der brukeren skriver inn alderen på kjøperen og programmet regner ut og skriver ut riktig billettpris.
 
-Lag flytdiagrammet i et egnet program, og lagre det i et allment lesbart format (f.eks. pdf eller png) og legg det ved i samme mappe som filen `oppgaver-doa.md`.
+Lag flytdiagrammet i et egnet program, og lagre det i et allment lesbart format (f.eks. pdf eller png) og legg det ved i samme mappe som filen `oppgaver-pseudokode-flytdiagram.md`.
 
 ## Oppgave 8: V23-3
 
