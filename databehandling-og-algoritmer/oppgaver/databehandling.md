@@ -2,7 +2,31 @@
 
 > Oppgavene besvares i egne filer, én fil per oppgave.
 
-## Oppgave 1: H23-11
+## Oppgave 1
+
+### Spotify Weekly Top Songs Global
+
+1. Hvilken sang har flest uker på Spotifys Weekly Top Songs Global?
+2. Hvor mange streams har Taylor Swift til sammen på sangene hennes som er på topplista?
+3. Hvilken sang gikk opp flest plasseringer fra forrige uke til denne?
+
+- Fil: [../vedlegg/spotify-weekly-top-songs-global-uke2-2023.json](../vedlegg/spotify-weekly-top-songs-global-uke2-2023.json)
+- Tips: Se [../algoritmer.md#eksempel-2-spotify](../algoritmer.md#eksempel-2-spotify)
+
+## Oppgave 2
+
+### IMDB Topp 250
+
+1. Hvilken film ligger øverst på listen og hvem har regissert den?
+2. Hva er gjennomsnittskarakteren til alle filmene på listen?
+3. Hva er gjennomsnittskarakteren til de ti første filmene?
+4. Hvilken regissør har regissert flest filmer på listen?
+   - For hver film er regisørrer en liste. Her holder det med første regissør i listen.
+   - Bonus: Alle regisørrene i regissørlistene skal telles med.
+
+- Fil: [../vedlegg/imdb_top250.json](../vedlegg/imdb_top250.json)
+
+## Oppgave 3: H23-11
 
 ### YouTube-statistikk
 
@@ -18,7 +42,7 @@ a) Lag et program som finner og presenterer de ti landene i datasettet som har f
 
 b) Utvid programmet til å regne ut og presentere gjennomsnittlig antall abonnenter og videovisninger per kanal for hvert av disse landene.
 
-## Oppgave 2: V23-9
+## Oppgave 4: V23-9
 
 ### Oversikt over apper i Google Play Store
 
