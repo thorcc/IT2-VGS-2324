@@ -1,6 +1,7 @@
 # Oppgaver - Algoritmer, pseudokode og flytdiagram
 
-> Oppgavene skal besvares i en fil med navn `oppgaver-pseudokode-flytdiagram.md`
+> Oppgavene skal besvares i en fil med navn `oppgaver-pseudokode-flytdiagram.md`  
+> Løsningsforslag: [./lf/pseudokode-og-flytdiagram.md](./lf/pseudokode-og-flytdiagram.md)
 
 - [Oppgave 1: V23-1](#oppgave-1-v23-1)
 - [Oppgave 2: H23-2](#oppgave-2-h23-2)
