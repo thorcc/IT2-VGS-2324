@@ -14,11 +14,10 @@ Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
 
 - IT-uke: 17
 - Ukens fagstoff: [Algoritmer](./databehandling-og-algoritmer/algoritmer.md)
-- Ukens oppgaver: [./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md](./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md)
 - Tema: [Databehandling og algoritmer](./databehandling-og-algoritmer/readme.md)
-- Gjøremål:
-  - Gjør [oppgave 9 til 11](./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md)
-  - Gjør [oppgave 1 og 2](./databehandling-og-algoritmer/oppgaver/databehandling.md)
+- Ukens oppgaver:
+  - Gjør oppgave 9 til 11 i [pseudokode og flytdiagram](./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md)
+  - Gjør oppgave 1 og 2 i [databehandling](./databehandling-og-algoritmer/oppgaver/databehandling.md)
 
 ## Forrige uke
 
@@ -26,7 +25,7 @@ Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
 - Ukens fagstoff: [Pseudokode og flytdiagram](./databehandling-og-algoritmer/pseudokode-og-flytdiagram.md)
 - Ukens oppgaver: [./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md](./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md)
 - Tema: [Databehandling og algoritmer](./databehandling-og-algoritmer/readme.md)
-- Gjøremål:
+- Ukens oppgaver:
   - Lag Github-repository for IT2-2324
   - Gjør [oppgave 1 til 8](./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md)
 
