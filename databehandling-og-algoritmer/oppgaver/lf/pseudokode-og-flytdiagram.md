@@ -158,7 +158,7 @@ DISPLAY total
 
 I figuren nedenfor finner du en illustrasjon som viser et flytskjema for en algoritme, og i *kodeboksen* under figuren finner du fire sekvenser med pseudokode.
 
-![v23-4](../bilder/v23-4.png)
+![v23-4](../../bilder/v23-4.png)
 
 ```pseudo
 1:
@@ -199,7 +199,7 @@ Hvilken sekvens med pseudokode gir lik visning av output som algoritmen beskreve
 
 Nedenfor finner du flere linjer med pseudokode. Sorter linjene i riktig rekkefølge, slik at det blir pseudokoden til et program som skal finne det største tallet av tre tall. Tips: Linjene med pseudokode har ikke innrykk/indentering.
 
-![v23-5](../bilder/v23-5.png)
+![v23-5](../../bilder/v23-5.png)
 
 Eksempel på svar:
 
