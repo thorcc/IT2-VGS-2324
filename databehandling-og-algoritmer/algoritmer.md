@@ -139,7 +139,7 @@ print(nest_høyest([2, -4, 5, 1])) # -> 2
 ```pseudo
 FUNCTION n_høyeste (liste, n)
   SET høyeste_n TO en tom liste
-  FOR EACH i FROM 0 TO lengden av liste - 1
+  FOR EACH i FROM 0 TO n
     SET høyest TO høyeste(liste)
     REMOVE høyest FROM liste
     ADD høyest TO høyeste_n
