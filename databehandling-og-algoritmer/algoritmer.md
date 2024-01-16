@@ -144,7 +144,7 @@ FUNCTION n_høyeste (liste, n)
     REMOVE høyest FROM liste
     ADD høyest TO høyeste_n
   END FOR
-  RETURN nest_høyest
+  RETURN høyeste_n
 END FUNCTION
 ```
 
