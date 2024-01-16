@@ -2,7 +2,7 @@
 
 - [Denne uken](#denne-uken)
 - [Forrige uke](#forrige-uke)
-- [Oversikt over ukeplaner](#oversikt-over-ukeplaner)
+- [Alle ukeplaner](#alle-ukeplaner)
 - [Viktige datoer](#viktige-datoer)
 - [Årsplan](#årsplan)
 - [Emner](#emner)
@@ -27,7 +27,7 @@
   - Lag Github-repository for IT2-2324
   - Gjør [oppgave 1 til 8](./databehandling-og-algoritmer/oppgaver/pseudokode-og-flytdiagram.md)
 
-## Oversikt over ukeplaner
+## Alle ukeplaner
 
 - [./ukeplaner.md](./ukeplaner.md)
 
@@ -44,7 +44,7 @@
 
 | Ukenr   | Emne                                                            | Kommentar                  |
 | ------- | --------------------------------------------------------------- | -------------------------- |
-| 1 - 6   | [Databehandling og algoritmer](./databehandling-og-algoritmer/) | Prøve 6. feb / 1. feb      |
+| 1 - 6   | [Databehandling og algoritmer](./databehandling-og-algoritmer/) | Prøve 6. feb / 8. feb      |
 | 7 - 14  | Prosjektarbeid                                                  | Mappeinnlevering 5. apr    |
 | 15 - 18 | Større oppgaver og tentamen                                     | Tentamen 23. apr / 25. apr |
 | 19 - 22 | Forberedelse til skriftlig eksamen                              | Skriftlig eksamen 31. mai  |
