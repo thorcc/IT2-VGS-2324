@@ -1,10 +1,5 @@
 # IT2 - 2023/2024
 
-Et repository for IT2 på Sandvika VGS skoleåret 2023/2024.
-
-## Innhold
-
-- [Innhold](#innhold)
 - [Denne uken](#denne-uken)
 - [Forrige uke](#forrige-uke)
 - [Oversikt over ukeplaner](#oversikt-over-ukeplaner)
