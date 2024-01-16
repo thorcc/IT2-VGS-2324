@@ -134,7 +134,7 @@ print(nest_høyest([2, -4, 5, 1])) # -> 2
 
 ### Alternativ 1
 
-> Algoritmene under bruker funksjonen `høyeste` som er definert i [Algoritme 1](#algoritme-1-høyeste-tallet-i-en-liste)
+> Algoritmen under bruker funksjonen `høyeste` som er definert i [Algoritme 1](#algoritme-1-høyeste-tallet-i-en-liste)
 
 ```pseudo
 FUNCTION n_høyeste (liste, n)
